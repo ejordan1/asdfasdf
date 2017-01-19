@@ -1,0 +1,86 @@
+/Users/Ej/New Unity Project 7 copy/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Ej/New Unity Project 7 copy/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Ej/New Unity Project 7 copy/obj/Debug/Assembly-CSharp.dll
+/Users/Ej/New Unity Project 7 copy/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/Ej/New Unity Project 7 copy/Temp/bin/Debug/UnityEngine.dll
+/Users/Ej/New Unity Project 7 copy/Temp/bin/Debug/UnityEditor.dll
+/Users/Ej/New Unity Project 7 copy/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Ej/New Unity Project 7 copy/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Ej/New Unity Project 7 copy/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/Ej/New Unity Project 7 copy/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/Ej/New Unity Project 7 copy/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/Ej/New Unity Project 7 copy/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/Ej/New Unity Project 7 copy/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Ej/New Unity Project 7 copy/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Ej/New Unity Project 7 copy/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Ej/New Unity Project 7 copy/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Ej/New Unity Project 7 copy/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Ej/New Unity Project 7 copy/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Ej/New Unity Project 7 copy/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Ej/New Unity Project 7 copy/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Ej/New Unity Project 7 copy/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/Ej/Vdaunt 2d/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Ej/Vdaunt 2d/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Ej/Vdaunt 2d/obj/Debug/Assembly-CSharp.dll
+/Users/Ej/Vdaunt 2d/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/Ej/Vdaunt 2d/Temp/bin/Debug/UnityEngine.dll
+/Users/Ej/Vdaunt 2d/Temp/bin/Debug/UnityEditor.dll
+/Users/Ej/Vdaunt 2d/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Ej/Vdaunt 2d/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Ej/Vdaunt 2d/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/Ej/Vdaunt 2d/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/Ej/Vdaunt 2d/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/Ej/Vdaunt 2d/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/Ej/Vdaunt 2d/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Ej/Vdaunt 2d/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Ej/Vdaunt 2d/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Ej/Vdaunt 2d/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Ej/Vdaunt 2d/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Ej/Vdaunt 2d/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Ej/Vdaunt 2d/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Ej/Vdaunt 2d/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Ej/Vdaunt 2d/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/Ej/Vdaunt 2d/Temp/bin/Debug/UnityEngine.Advertisements.dll
+/Users/Ej/Vdaunt 2d/Temp/bin/Debug/UnityEngine.Purchasing.dll
+/Users/chrisjordan/Desktop/Vdaunt 2d/obj/Debug/Assembly-CSharp.dll
+/Users/chrisjordan/Desktop/Vdaunt 2d/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/chrisjordan/Desktop/Vdaunt 2d/Temp/bin/Debug/UnityEngine.dll
+/Users/chrisjordan/Desktop/Vdaunt 2d/Temp/bin/Debug/UnityEditor.dll
+/Users/chrisjordan/Desktop/Vdaunt 2d/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/chrisjordan/Desktop/Vdaunt 2d/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/chrisjordan/Desktop/Vdaunt 2d/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/chrisjordan/Desktop/Vdaunt 2d/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/chrisjordan/Desktop/Vdaunt 2d/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/chrisjordan/Desktop/Vdaunt 2d/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/chrisjordan/Desktop/Vdaunt 2d/Temp/bin/Debug/Mono.Cecil.dll
+/Users/chrisjordan/Desktop/Vdaunt 2d/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/chrisjordan/Desktop/Vdaunt 2d/Temp/bin/Debug/Unity.DataContract.dll
+/Users/chrisjordan/Desktop/Vdaunt 2d/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/chrisjordan/Desktop/Vdaunt 2d/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/chrisjordan/Desktop/Vdaunt 2d/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/chrisjordan/Desktop/Vdaunt 2d/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/chrisjordan/Desktop/Vdaunt 2d/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/chrisjordan/Desktop/Vdaunt 2d/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/chrisjordan/Desktop/Vdaunt 2d/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/chrisjordan/Desktop/Vdaunt 2d/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/chrisjordan/Documents/Vdaunt 2d Multiplayer/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/chrisjordan/Documents/Vdaunt 2d Multiplayer/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/chrisjordan/Documents/Vdaunt 2d Multiplayer/obj/Debug/Assembly-CSharp.dll
+/Users/chrisjordan/Documents/Vdaunt 2d Multiplayer/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/chrisjordan/Documents/Vdaunt 2d Multiplayer/Temp/bin/Debug/UnityEngine.dll
+/Users/chrisjordan/Documents/Vdaunt 2d Multiplayer/Temp/bin/Debug/UnityEditor.dll
+/Users/chrisjordan/Documents/Vdaunt 2d Multiplayer/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/chrisjordan/Documents/Vdaunt 2d Multiplayer/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/chrisjordan/Documents/Vdaunt 2d Multiplayer/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/chrisjordan/Documents/Vdaunt 2d Multiplayer/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/chrisjordan/Documents/Vdaunt 2d Multiplayer/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/chrisjordan/Documents/Vdaunt 2d Multiplayer/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/chrisjordan/Documents/Vdaunt 2d Multiplayer/Temp/bin/Debug/Mono.Cecil.dll
+/Users/chrisjordan/Documents/Vdaunt 2d Multiplayer/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/chrisjordan/Documents/Vdaunt 2d Multiplayer/Temp/bin/Debug/Unity.DataContract.dll
+/Users/chrisjordan/Documents/Vdaunt 2d Multiplayer/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/chrisjordan/Documents/Vdaunt 2d Multiplayer/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/chrisjordan/Documents/Vdaunt 2d Multiplayer/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/chrisjordan/Documents/Vdaunt 2d Multiplayer/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/chrisjordan/Documents/Vdaunt 2d Multiplayer/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/chrisjordan/Documents/Vdaunt 2d Multiplayer/Temp/bin/Debug/Mono.Cecil.Mdb.dll
